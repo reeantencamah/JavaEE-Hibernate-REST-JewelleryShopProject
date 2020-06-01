@@ -3,10 +3,10 @@ This project is build using OOP,JavaEE framework, Hibernate CRUD functionalities
 Can the whole project(.rar file) or view the different sections which are:
 
 - Product management
-  Include Hibernate CRUD functionalities, Hibernate Queries (Native & HQL), Hibernate Mappings, mySQL,Primefaces
+  _Include Hibernate CRUD functionalities, Hibernate Queries (Native & HQL), Hibernate Mappings, mySQL,Primefaces
   
 - Employee Payroll
-  Hibernate CRUD functionalities, Hibernate Queries (Native & HQL), Hibernate Mappings, mySQL,Primefaces, Ajax
+  _Hibernate CRUD functionalities, Hibernate Queries (Native & HQL), Hibernate Mappings, mySQL,Primefaces, Ajax
   
 - Customer management 
   Creation of RESTful Web Services for all CRUD functionalities.
