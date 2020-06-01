@@ -1,6 +1,16 @@
-# C#-Pharmaceutical-System
-This project is build using C# and SQL database. It consists of the following services:
-- Employee management system
-- Attendance management system (using fingerprint)
-- Payroll system
-- Stock control services
+# Jewellery Shop Project
+This project is build using OOP,JavaEE framework, Hibernate CRUD functionalities, Hibernate Queries (Native & HQL), Hibernate Mappings, mySQL,  RESTful web services, Primefaces, Maven, Ajax, Bootstrap, CSS, font awesome. 
+Can the whole project(.rar file) or view the different sections which are:
+
+- Product management
+  Include Hibernate CRUD functionalities, Hibernate Queries (Native & HQL), Hibernate Mappings, mySQL,Primefaces
+  
+- Employee Payroll
+  Hibernate CRUD functionalities, Hibernate Queries (Native & HQL), Hibernate Mappings, mySQL,Primefaces, Ajax
+  
+- Customer management 
+  Creation of RESTful Web Services for all CRUD functionalities.
+  Accessing the Web Services through the application. 
+  Security Mechanisms using Basic and Form based Authentication
+  
+ Can view the video to get an overview of the project.
