@@ -8,7 +8,7 @@ Can the whole project(.rar file) or view the different sections which are:
 - Employee Payroll
   _Hibernate CRUD functionalities, Hibernate Queries (Native & HQL), Hibernate Mappings, mySQL,Primefaces, Ajax
   
-- Customer management 
+- Customer management_ 
   Creation of RESTful Web Services for all CRUD functionalities.
   Accessing the Web Services through the application. 
   Security Mechanisms using Basic and Form based Authentication
