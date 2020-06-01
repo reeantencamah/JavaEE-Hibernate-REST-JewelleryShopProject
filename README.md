@@ -13,4 +13,4 @@ Can the whole project(.rar file) or view the different sections which are:
   Accessing the Web Services through the application. 
   Security Mechanisms using Basic and Form based Authentication
   
- Can view the video to get an overview of the project.
+ Can view the video (JewelleryProject.mp4) to get an overview of the project.
